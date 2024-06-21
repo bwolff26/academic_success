@@ -12,6 +12,7 @@ Might as well aim to do all sorts of unsupervised learning as well, make visuali
 Arguably shouldn't be here, but regardless:
 cedai:
 Drop 'education special needs'
+Drop curricular units credited, without evaluations (both first and second)
 
 ### Sources
 
